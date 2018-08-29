@@ -23,4 +23,6 @@ http://blog.kaggle.com/ No Free Hunch is the official blog of Kaggle, a popular 
 
 https://blog.feedspot.com/r_programming_blogs/ Top 40 R Programming Blogs and Websites To Follow in 2018
 
+https://www.datasciencedegreeprograms.net/blogs/ 30 Best Data Science Blogs OF 2017
+
 https://stackoverflow.com/questions/tagged/r Stack Overflow questions tagged in "R"
