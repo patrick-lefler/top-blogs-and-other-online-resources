@@ -3,6 +3,8 @@ Blogs and other online resources to monitor
 
 https://www.r-bloggers.com/
 
-blog.rstudio.com
+http://blog.rstudio.com
 
 http://blog.revolutionanalytics.com/ - Microsoft-centered news about using R for big data analysis, predictive modeling, data science, and visualization 
+
+https://stackoverflow.com/questions/tagged/r - 
