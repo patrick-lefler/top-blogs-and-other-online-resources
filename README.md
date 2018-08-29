@@ -17,6 +17,8 @@ https://www.reddit.com/r/Rlanguage/ Discussions and popular articles about imple
 
 http://www.sthda.com/english/ STHDA is a web site for statistical data analysis and data visualization using R software. It provides many R programming tutorials easy to follow.
 
+http://blog.kaggle.com/ No Free Hunch is the official blog of Kaggle, a popular platform for data science competitions.
+
 https://blog.feedspot.com/r_programming_blogs/ Top 40 R Programming Blogs and Websites To Follow in 2018
 
 https://stackoverflow.com/questions/tagged/r Stack Overflow questions tagged in "R"
