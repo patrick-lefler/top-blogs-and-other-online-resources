@@ -21,6 +21,8 @@ http://www.sthda.com/english/ STHDA is a web site for statistical data analysis 
 
 http://blog.kaggle.com/ No Free Hunch is the official blog of Kaggle, a popular platform for data science competitions.
 
+https://www.analyticsvidhya.com/blog/ Analytics Vidhya is a data science blog featuring articles on data science, machine learning, R programming, and Python for analytics.
+
 https://blog.feedspot.com/r_programming_blogs/ Top 40 R Programming Blogs and Websites To Follow in 2018
 
 https://www.datasciencedegreeprograms.net/blogs/ 30 Best Data Science Blogs OF 2017
