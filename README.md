@@ -7,6 +7,8 @@ http://blog.rstudio.com
 
 https://bookdown.org/
 
+https://mran.microsoft.com/ Microsoft R application network
+
 http://blog.revolutionanalytics.com/ Microsoft-centered news about using R for big data analysis, predictive modeling, data science, and visualization
 
 http://www.win-vector.com/blog/ Win-Vector Blog is a data science blog which gives tips and tricks for using R programming in data science.
